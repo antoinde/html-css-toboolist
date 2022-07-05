@@ -71,6 +71,19 @@ main{
 }
 /* ------ /pulsanti  ------- */
 
+section h3{
+    color: #444851;
+    font-weight: bold;
+}
+
+section{
+    margin-top: 20px;
+}
+
+#container_body{
+    margin: 20px 50px;
+}
+
 /* ------ /Contenitore  ------- */
 
 
