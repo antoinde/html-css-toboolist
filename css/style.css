@@ -24,13 +24,50 @@ header span{
 }
 /* /Header */
 
-/* Main */
 
 main{
     background-color: grey;
     height: 600px;
+    padding-top: 40px;
 }
 
+/* ------ Contenitore  ------- */
+#container{
+    background-color: white;
+    margin: 0 auto;
+    min-width: 700px;
+    width: 70%;
+    height: 80%;
+}
+
+#container_head{
+    width: 100%;
+    height: 40px;
+    padding-left: 30px;
+}
+
+#container_head div{
+    display: inline-block;
+    height: 30px;
+    width: 90px;
+    margin: 5px 10px;
+    border-radius: 15%;
+    line-height: 30px;
+    text-align: center;
+    
+}
+
+.button1{
+    background-color: #47ADF1;
+    color: white;
+    border: 1px solid #47ADF1;
+}
+.button2{
+    background-color: white;
+    color: grey;
+    border: 1px solid grey;
+}
+
+/* ------ /Contenitore  ------- */
 
 
-/* /Main */
