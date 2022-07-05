@@ -73,7 +73,8 @@ main{
 
 section h3{
     color: #444851;
-    font-weight: bold;
+    font-size: larger;
+    font-weight: 900;
 }
 
 section{
@@ -84,6 +85,23 @@ section{
     margin: 20px 50px;
 }
 
+.v_check{
+    font-weight: bold;
+    border: 2px solid green;
+    color: green;
+    border-radius: 40%;
+}
+
+.x_check{
+    font-weight: bold;
+    border: 2px solid red;
+    color: red;
+    border-radius: 40%;
+}
+
+#container_body div{
+    margin-bottom: 10px;
+}
 /* ------ /Contenitore  ------- */
 
 
