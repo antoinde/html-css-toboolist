@@ -20,6 +20,7 @@ header img{
 header span{
     position: relative;
     top: -18px;
+    font-family: sans-serif;
     
 }
 /* /Header */
@@ -102,9 +103,9 @@ section{
 
 .type_of_button{
     color: white;
-    border-radius: 38%;
-    padding: 2px;
-    font-size: smaller;
+    border-radius: 28%;
+    padding: 8px;
+    font-size: 9px;
 }
 
 .color_blue{ background-color: #44adef;}
