@@ -99,7 +99,22 @@ section{
     border-radius: 40%;
 }
 
-#container_body div{
+.type_of_button{
+    color: white;
+    border-radius: 38%;
+    padding: 2px;
+    font-size: smaller;
+}
+
+.color_blue{ background-color: #44adef;}
+.color_violet{background-color: #9C72E4;}
+.color_lightgreen{background-color: #7edd3f;}
+.color_orange{background-color: #F29E33;}
+.color_darkgreen{background-color: #09833e;}
+.color_rose{background-color: #ea2bc7;}
+
+
+#container_body div{ /* spazio tra le righe */
     margin-bottom: 10px;
 }
 /* ------ /Contenitore  ------- */
