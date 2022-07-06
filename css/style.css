@@ -77,6 +77,7 @@ section h3{
     color: #444851;
     font-size: larger;
     font-weight: 900;
+    margin-bottom: 10px;
 }
 
 section{
@@ -91,14 +92,21 @@ section{
     font-weight: bold;
     border: 2px solid green;
     color: green;
-    border-radius: 40%;
+    border-radius: 20px;
+    padding: 3px 5px;
+    font-size: 0.7rem;
+    margin-right: 15px;
 }
 
 .x_check{
     font-weight: bold;
     border: 2px solid red;
     color: red;
-    border-radius: 40%;
+    border-radius: 20px;
+    padding: 3px 5px;
+    font-size: 0.7rem;
+    margin-right: 15px;
+
 }
 
 .type_of_button{
